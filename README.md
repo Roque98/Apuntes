@@ -4,7 +4,7 @@
 
 Concentrar en una **ubicación externa** mis apuntes en forma digital.
 
-Los cursos acerca de los cuales tomare nota son los siguientes:
+### Los cursos acerca de los cuales tomare nota son los siguientes
 
 1. Github
 2. NodeJS
@@ -21,5 +21,10 @@ Los cursos acerca de los cuales tomare nota son los siguientes:
 ### EDITOR
 
 > Visual Studio Code
+
+Para poder abrir la vista previa del archivo
+
+1. Abrir la paleta de comandos con ctrl + shit + p
+2. buscar "markdown: Abrir vista previa en panel lateral"
 
     ctrl + p | markdown: Abrir vista previa en panel lateral
