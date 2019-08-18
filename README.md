@@ -27,4 +27,6 @@ Para poder abrir la vista previa del archivo
 1. Abrir la paleta de comandos con ctrl + shit + p
 2. buscar "markdown: Abrir vista previa en panel lateral"
 
-    ctrl + p | markdown: Abrir vista previa en panel lateral
+```
+ ctrl + p | markdown: Abrir vista previa en panel lateral
+``` 
