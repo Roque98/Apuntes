@@ -12,13 +12,14 @@ Los cursos acerca de los cuales tomare nota son los siguientes:
 4. Redux
 5. Sockets
 
- ## Lenguaje y Editor de texto
-LENGUAJE
+## Lenguaje y Editor de texto
+
+### LENGUAJE
+
 > marckdown
 
-EDITOR
+### EDITOR
 
-> StackEdit
-[Link para ir al editor](https://stackedit.io)
- 
+> Visual Studio Code
 
+    ctrl + p | markdown: Abrir vista previa en panel lateral
