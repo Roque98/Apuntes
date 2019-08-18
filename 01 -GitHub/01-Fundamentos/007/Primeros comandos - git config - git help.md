@@ -1,4 +1,6 @@
-# Primeros comandos
+# INICIO
+
+## Primeros comandos
 
 ### git --version
 
