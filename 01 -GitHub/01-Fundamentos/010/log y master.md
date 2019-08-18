@@ -16,6 +16,8 @@ Este comando permite ver un registro completo de todos los commits hechos hasta 
 
 > Master es el nombre de la rama principal
 
+## Imagen master y log
+
 ![img1]
 
 <!-- Declaracion de imagenes -->
