@@ -13,7 +13,7 @@
 
     git status
 
-## git commit 
+## git commit
 
 > Permite guardar el proyecto guardando todo lo que este en el staged
 
