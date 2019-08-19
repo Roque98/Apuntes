@@ -6,11 +6,12 @@ Concentrar en una **ubicación externa** mis apuntes en forma digital.
 
 ### Los cursos acerca de los cuales tomare nota son los siguientes
 
-1. Github
+1. [Github](https://github.com/Roque98/Apuntes/tree/master/01%20-GitHub)
 2. NodeJS
 3. Ionic
 4. Redux
 5. Sockets
+6. [Visual Studio Code](https://github.com/Roque98/Apuntes/tree/master/06%20-%20Visual%20Studio)
 
 ## Lenguaje y Editor de texto
 
