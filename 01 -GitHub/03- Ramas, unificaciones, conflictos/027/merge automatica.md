@@ -7,4 +7,3 @@
 > Esta es una funcion automatica
 
     git merge nombreRamaQueSeQuieraFucionar
-
