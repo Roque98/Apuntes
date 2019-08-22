@@ -47,4 +47,4 @@ app.listen(3000, () => {
 
 Iniciar servidor
 
-    nodemon 
+    nodemon server/server
